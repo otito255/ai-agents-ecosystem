@@ -9,7 +9,7 @@ Uses AI to detect unusual patterns in log files automatically.
 ```bash
 mkdir log-anomaly-agent
 cd log-anomaly-agent
-touch logs.txt agent.py
+touch logs.txt script.py
 ```
 
 ### Step 2: Install OpenAI
@@ -43,7 +43,7 @@ Copy the entire code from the original script into `agent.py`.
 ### Step 6: Run
 
 ```bash
-python agent.py
+python script.py
 ```
 
 You get two files:
