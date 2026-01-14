@@ -9,7 +9,7 @@ Uses AI to objectively compare vendors across your criteria.
 ```bash
 mkdir vendor-comparison-agent
 cd vendor-comparison-agent
-touch input.txt agent.py
+touch input.txt script.py
 ```
 
 ### Step 2: Install OpenAI
@@ -44,14 +44,14 @@ Business Priority:
 Operational reliability and long-term scalability
 ```
 
-### Step 5: Copy Code (agent.py)
+### Step 5: Copy Code (script.py)
 
 Copy the entire code from the original script into `agent.py`.
 
 ### Step 6: Run
 
 ```bash
-python agent.py
+python script.py
 ```
 
 You get two files:
